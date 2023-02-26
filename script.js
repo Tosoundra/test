@@ -9,4 +9,4 @@ function printName(Name) {
     }
 }
 
-printName("John");
+console.log(printName('john'));
